@@ -2,9 +2,8 @@
 
 ![Developer at work](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
-I'm currently a pre-final year student at **Delhi Technological University**, working on scalable backend systems, compiler design, and network protocols.  
-I’ve developed my own **Node.js-based video editing platform**, implemented **DHCP using C and sockets**, and even built a **custom compiler** that generates assembly!
-
+I'm currently a final year student at **University School of Information, Communication and Technology**, working on scalable backend systems, compiler design, and network protocols.  
+I’ve developed my own **Node.js-based video editing platform**, implemented **DHCP using C and sockets**.
 ---
 
 ### 🛠️ Tech Stack
@@ -31,11 +30,8 @@ I’ve developed my own **Node.js-based video editing platform**, implemented **
 ---
 
 ### 🧠 Recent Projects
-- 🎬 **[Video Editing Platform](https://github.com/akmmbh/Video-Editor)** – Built a custom Node.js web framework with FFmpeg-based video processing and multi-core clustering.
-- 🎮 **[2D Arcade Shooter](https://github.com/akmmbh/Shooting-Game-/tree/main)** – A game built in C++ using ECS architecture with real-time ImGui debugging.
-- 🛰️ **[DHCP Protocol in C](https://github.com/akmmbh/DHCP-server-client/tree/main)** – Simulated DISCOVER → OFFER → REQUEST → ACK with UDP sockets.
-- 🛠️ **[Custom Compiler](https://github.com/akmmbh/CompD)** – Compiler frontend with lexical analysis, recursive descent parser, and NASM code generation.
-- 🔐 **[Linux Syscall Hooking](https://github.com/akmmbh/Linux-Module)** – Hooked the `kill()` syscall and bypassed kernel write protection using inline assembly.
+- 🎬 **[Video Editing Platform](https://github.com/AK472-OPS/Video-Editor)** – Built a custom Node.js web framework with FFmpeg-based video processing and multi-core clustering.
+- 🛰️ **[DHCP Protocol in C](https://github.com/AK472-OPS/DHCP-SERVER-CLIENT)** – Simulated DISCOVER → OFFER → REQUEST → ACK with UDP sockets.
 
 ---
 
@@ -47,9 +43,7 @@ I’ve developed my own **Node.js-based video editing platform**, implemented **
 
 ### 🏆 Highlights
 - 600+ DSA problems solved 💻  
-- LeetCode Knight 🏅 | Codeforces Pupil 🧠 | CodeChef 3★ 🍜  
-- Global Rank 122 in LeetCode Weekly Contest 🚀  
-- JEE Advanced Qualifier | Top 1.5% in JEE Mains
+- Top 3.3% in JEE Mains
 
 ---
 
@@ -57,7 +51,6 @@ I’ve developed my own **Node.js-based video editing platform**, implemented **
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/abhinandan-mishra-42a2ab240/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/akmmbh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://akmmbh.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akmmbh)
 
 ---
