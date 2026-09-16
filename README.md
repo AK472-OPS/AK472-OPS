@@ -42,7 +42,7 @@ I’ve developed my own **Node.js-based video editing platform**, implemented **
 ---
 
 ### 🏆 Highlights
-- 600+ DSA problems solved 💻  
+- 650+ DSA problems solved 💻  
 - Top 3.3% in JEE Mains
 
 ---
