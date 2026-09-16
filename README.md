@@ -27,3 +27,37 @@ I’ve developed my own **Node.js-based video editing platform**, implemented **
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+### 🧠 Recent Projects
+- 🎬 **[Video Editing Platform](https://github.com/akmmbh/Video-Editor)** – Built a custom Node.js web framework with FFmpeg-based video processing and multi-core clustering.
+- 🎮 **[2D Arcade Shooter](https://github.com/akmmbh/Shooting-Game-/tree/main)** – A game built in C++ using ECS architecture with real-time ImGui debugging.
+- 🛰️ **[DHCP Protocol in C](https://github.com/akmmbh/DHCP-server-client/tree/main)** – Simulated DISCOVER → OFFER → REQUEST → ACK with UDP sockets.
+- 🛠️ **[Custom Compiler](https://github.com/akmmbh/CompD)** – Compiler frontend with lexical analysis, recursive descent parser, and NASM code generation.
+- 🔐 **[Linux Syscall Hooking](https://github.com/akmmbh/Linux-Module)** – Hooked the `kill()` syscall and bypassed kernel write protection using inline assembly.
+
+---
+
+### 📈 GitHub Activity
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+
+---
+
+### 🏆 Highlights
+- 600+ DSA problems solved 💻  
+- LeetCode Knight 🏅 | Codeforces Pupil 🧠 | CodeChef 3★ 🍜  
+- Global Rank 122 in LeetCode Weekly Contest 🚀  
+- JEE Advanced Qualifier | Top 1.5% in JEE Mains
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/abhinandan-mishra-42a2ab240/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/akmmbh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://akmmbh.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akmmbh)
+
+---
